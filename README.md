@@ -5,7 +5,7 @@ Este repositório reúne todas as atividades, projetos e desafios realizados ao 
 ## 📚 Módulos
 
 ### 🔹 Módulo 1 – IA Generativa e Alta Performance
-- [Atividade 01](modulo-01/atividade-01/)
+- [Desafio Prático](modulo-01/desafioPratico/)
 
 ### 🔹 Módulo 2 – Agentes e Automação
 - 🚧 Em construção
