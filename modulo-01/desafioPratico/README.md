@@ -33,6 +33,11 @@ O repositório é composto por dois documentos fundamentais em PDF, conforme as 
 3.  No campo de **Instruções** do Guia do Caderno, insira o conteúdo detalhado do prompt definido no arquivo de configuração.
 4.  Realize testes de comportamento, como perguntas sobre preços ou solicitações fora de escopo, para validar a precisão do assistente.
 
+Exemplo de uso no NotebookLM, com a pergunta "você tem o console Atari"
+
+<img width="1398" height="546" alt="image" src="https://github.com/user-attachments/assets/ae26718f-be02-4d9b-bb93-78e30f22cbb2" />
+
+
 ---
 
 **Nota:** Este projeto foi desenvolvido conforme os requisitos obrigatórios de entrega: repositório público contendo apenas dois arquivos PDF com no máximo 6000 caracteres cada.
